@@ -1,4 +1,4 @@
 question,option1,option2,option3,option4,answer,difficulty_score
 "What color is the sky",blue,green,red,yellow,a,0
-"What is the time complexity of linear search? Big of ",1,log(N),N,N^2,b,1
+"What is the time complexity of linear search? Big of ",1,log(N),N,N^2,c,1
 "Which data structure is not native to python",Lists,Dictionaries,Sets,Arrays,d,2
