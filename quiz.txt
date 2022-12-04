@@ -1,0 +1,14 @@
+A customer has asked you to create a program that will allow them to take custom quizzes.
+A quizzes needs to be read in from a csv file. If the file does not exist, 
+nothing is read in but the program should not crash.
+A quiz consists of a series of questions.
+Each question consist of 4 options (A-D), a correct answer, and a difficult score.
+
+Create a program that, given a csv file of questions, will create a quiz.
+Once the quiz is created, the user should be prompted with the questions on the command line.
+Questions should be asked in difficultly order (from least difficult to most difficult).
+Feedback should be given to the user about the accuracy of their answers.
+Once they quiz is complete, the program ends. 
+
+You are free to add any methods you feel would make this problem easier, even if they are not mentioned
+in the problem statement.
